@@ -5,7 +5,7 @@ import APIKeys
 import re
 
 # Load API Key
-API_KEY = APIKeys.api_key
+API_KEY = APIKeys.api_key_gdc
 
 # Load CSV File
 df = pd.read_csv("MPA Final Database.csv")
